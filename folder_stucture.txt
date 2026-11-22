@@ -1,0 +1,40 @@
+financial-fpa-predictive-analytics/
+│
+├── data/
+│   ├── master_data/
+│   │   ├── company_master.csv
+│   │   ├── gl_account_master.csv
+│   │   └── cost_center_master.csv
+│   │
+│   └── README.md
+│
+├── docs/
+│   ├── dashboard-preview/
+│   │   ├── 01-executive-overview.png
+│   │   ├── 02-budget-variance.png
+│   │   ├── 03-forecast-ml.png
+│   │   └── 04-anomaly-detection.png
+│   │
+│   ├── Project_Documentation.docx
+│   ├── PROJECT_STRUCTURE.md
+│   └── ATTRIBUTION.md
+│
+├── notebooks/
+│   └── fpa_predictive_analytics.ipynb
+│
+├── powerbi/
+│   ├── Financial_Performance_FPA_Predictive_Analytics.pbix
+│   └── dax_measures.dax
+│
+├── sql/
+│   └── mysql_fpa_analysis.sql
+│
+├── scripts/
+│   └── README.md
+│
+├── tests/
+│   └── README.md
+│
+├── .gitignore
+├── README.md
+└── folder_structure.txt
