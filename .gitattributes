@@ -1,5 +1,5 @@
-# Include the exported Python source in language statistics
+# Include Python source in GitHub language statistics
 python/fpa_predictive_analytics.py linguist-language=Python -linguist-generated
 
-# Include SQL in language statistics
-sql/mysql_fpa_analysis.sql linguist-language=SQL linguist-detectable
+# Include SQL source in GitHub language statistics
+sql/mysql_fpa_analysis.sql linguist-language=SQL linguist-detectable=true
