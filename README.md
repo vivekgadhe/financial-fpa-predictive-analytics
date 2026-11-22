@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# ðŸ“Š Financial Performance & FP&A Predictive Analytics
+# 📊 Financial Performance & FP&A Predictive Analytics
 
 ### Transforming Financial Data into Actionable Business Intelligence
 
@@ -26,7 +26,7 @@
 
 <br>
 
-**Financial Analytics Â· Predictive Modelling Â· Business Intelligence Â· Data Visualization**
+**Financial Analytics · Predictive Modelling · Business Intelligence · Data Visualization**
 
 </div>
 
@@ -34,17 +34,17 @@
 
 ---
 
-## ðŸ“– Project Overview
+## 📖 Project Overview
 
 Financial Performance & FP&A Predictive Analytics is an end-to-end financial analytics project designed to transform SAP-style accounting transaction data into meaningful financial insights.
 
 The project combines **Python, Pandas, MySQL, Machine Learning and Power BI** to investigate financial performance, evaluate budget variances, forecast revenue and identify potentially unusual financial transactions.
 
-Using approximately **159,934 accounting transaction lines** across multiple company codes and fiscal years (2022â€“2025), the project demonstrates how financial data can be processed, validated, analyzed and transformed into actionable business intelligence.
+Using approximately **159,934 accounting transaction lines** across multiple company codes and fiscal years (2022–2025), the project demonstrates how financial data can be processed, validated, analyzed and transformed into actionable business intelligence.
 
 The solution integrates data preparation, financial classification, SQL-based analysis, predictive modelling and interactive Power BI dashboards to support financial monitoring and decision-making.
 
-### ðŸŽ¯ Project Scope
+### 🎯 Project Scope
 
 | Area | Description |
 |---|---|
@@ -57,7 +57,7 @@ The solution integrates data preparation, financial classification, SQL-based an
 
 ---
 
-## ðŸŽ¯ Problem Statement
+## 🎯 Problem Statement
 
 Financial planning and analysis teams work with large volumes of accounting transactions, budget records and financial forecasts.
 
@@ -69,7 +69,7 @@ Traditional financial reporting primarily focuses on historical results. However
 
 This project addresses these analytical challenges by developing an integrated financial analytics workflow that combines data processing, SQL analysis, predictive modelling and business intelligence.
 
-### âš ï¸ Key Challenges Addressed
+### ⚠️ Key Challenges Addressed
 
 - **Financial Data Complexity:** Managing and validating large volumes of SAP-style accounting transactions.
 
@@ -85,7 +85,7 @@ This project addresses these analytical challenges by developing an integrated f
 
 ---
 
-## ðŸŽ¯ Business Objectives
+## 🎯 Business Objectives
 
 The primary objective is to develop a structured financial analytics solution that demonstrates how data analytics and predictive modelling can support Financial Planning & Analysis (FP&A) activities.
 
@@ -136,13 +136,13 @@ The primary objective is to develop a structured financial analytics solution th
 
 ---
 
-## ðŸ’¡ Proposed Solution
+## 💡 Proposed Solution
 
 To address the identified challenges, the project implements an integrated financial analytics workflow connecting data engineering, SQL-based analysis, machine learning and business intelligence.
 
 The solution follows a structured analytical approach.
 
-### ðŸ”„ Analytical Workflow
+### 🔄 Analytical Workflow
 
 | Stage | Component | Implementation |
 |---|---|---|
@@ -156,7 +156,7 @@ The solution follows a structured analytical approach.
 | 08 | Business Intelligence | Power BI and DAX |
 | 09 | Reporting | Interactive financial dashboards |
 
-### ðŸ§© Solution Components
+### 🧩 Solution Components
 
 **Financial Analytics**
 
@@ -182,7 +182,7 @@ The dashboard provides an integrated view of executive financial performance, bu
 
 ---
 
-## ðŸ” Business Questions
+## 🔍 Business Questions
 
 The project is designed to investigate important financial and operational questions that are relevant to FP&A teams and financial analysts.
 
@@ -228,7 +228,7 @@ The project is designed to investigate important financial and operational quest
 
 ---
 
-## ðŸ“¦ Key Deliverables
+## 📦 Key Deliverables
 
 The project combines multiple analytical components into a unified financial analytics solution.
 
@@ -244,7 +244,7 @@ The project combines multiple analytical components into a unified financial ana
 | Interactive Dashboard | Four-page financial performance and analytics report | Power BI |
 | Documentation | Project methodology, technical workflow and analytical findings | Markdown, DOCX |
 
-### ðŸ“Š Final Dashboard Modules
+### 📊 Final Dashboard Modules
 
 The Power BI report contains four analytical pages:
 
@@ -257,7 +257,7 @@ The Power BI report contains four analytical pages:
 
 ---
 
-### ðŸ’¼ Business Value
+### 💼 Business Value
 
 This project demonstrates how financial transaction data can be transformed into structured analytical outputs using a combination of programming, database querying, predictive modelling and business intelligence.
 
@@ -276,13 +276,13 @@ The project is particularly relevant to learning and demonstrating technical com
 
 ---
 
-## ðŸ“Š Interactive Power BI Dashboard Preview
+## 📊 Interactive Power BI Dashboard Preview
 
 The project includes an interactive, four-page Power BI dashboard designed to provide financial visibility, monitor business performance, evaluate revenue forecasts and investigate potentially unusual accounting transactions.
 
 Each dashboard page focuses on a specific financial analytical requirement, transforming accounting data into meaningful business insights.
 
-### ðŸ“Œ Dashboard Navigation
+### 📌 Dashboard Navigation
 
 | Dashboard | Primary Focus |
 |---|---|
@@ -406,17 +406,17 @@ Supports financial monitoring by highlighting unusual accounting patterns that m
 
 ---
 
-### ðŸ“¥ Access the Interactive Power BI Report
+### 📥 Access the Interactive Power BI Report
 
 The complete Power BI report is available in the repository.
 
-[**â¬‡ï¸ Download Financial Performance & FP&A Power BI Dashboard (.pbix)**](powerbi/Financial_Performance_FPA_Predictive_Analytics.pbix)
+[**⬇️ Download Financial Performance & FP&A Power BI Dashboard (.pbix)**](powerbi/Financial_Performance_FPA_Predictive_Analytics.pbix)
 
 The `.pbix` file can be opened using Microsoft Power BI Desktop to explore the report pages and their available interactive features.
 
 ---
 
-### ðŸŽ¯ Dashboard Summary
+### 🎯 Dashboard Summary
 
 | Analytical Area | Business Value |
 |---|---|
@@ -433,13 +433,13 @@ The `.pbix` file can be opened using Microsoft Power BI Desktop to explore the r
 
 ---
 
-## âœ¨ Key Features & Analytical Capabilities
+## ✨ Key Features & Analytical Capabilities
 
 The project is organized into four major analytical modules, combining financial data processing, business intelligence, predictive modelling and anomaly detection.
 
 Each module addresses a specific financial analytics problem and demonstrates the practical application of Python, SQL, Machine Learning and Power BI.
 
-### ðŸ“Œ Analytical Modules Overview
+### 📌 Analytical Modules Overview
 
 | Module | Key Technologies | Analytical Focus |
 |---|---|---|
@@ -450,7 +450,7 @@ Each module addresses a specific financial analytics problem and demonstrates th
 
 ---
 
-### ðŸ’° 1. Financial Performance Analysis
+### 💰 1. Financial Performance Analysis
 
 **Objective:** Transform raw SAP-style accounting transactions into structured financial information for performance measurement and profitability analysis.
 
@@ -503,7 +503,7 @@ The reconciliation result represents documents whose debit and credit totals bal
 
 ---
 
-### ðŸ“Š 2. Budget & Variance Analysis
+### 📊 2. Budget & Variance Analysis
 
 **Objective:** Evaluate actual financial performance against planned budgets and rolling forecasts to identify deviations from financial targets.
 
@@ -524,11 +524,11 @@ This module focuses on financial planning, budget monitoring and performance var
 
 | KPI | Calculation |
 |---|---|
-| Revenue Variance | Actual Revenue âˆ’ Budget Revenue |
-| Revenue Variance % | Revenue Variance / Budget Revenue Ã— 100 |
-| Gross Profit Variance | Actual Gross Profit âˆ’ Budget Gross Profit |
-| Operating Profit Variance | Actual Operating Profit âˆ’ Budget Operating Profit |
-| Forecast Variance | Rolling Forecast âˆ’ Budget |
+| Revenue Variance | Actual Revenue − Budget Revenue |
+| Revenue Variance % | Revenue Variance / Budget Revenue × 100 |
+| Gross Profit Variance | Actual Gross Profit − Budget Gross Profit |
+| Operating Profit Variance | Actual Operating Profit − Budget Operating Profit |
+| Forecast Variance | Rolling Forecast − Budget |
 | Year-over-Year Growth | Current-Year Revenue compared with Previous-Year Revenue |
 
 #### SQL Analytical Capabilities
@@ -559,7 +559,7 @@ The MySQL implementation includes:
 
 ---
 
-### ðŸ¤– 3. Predictive Revenue Analytics
+### 🤖– 3. Predictive Revenue Analytics
 
 **Objective:** Investigate historical revenue patterns and evaluate the performance of machine-learning-based revenue forecasting.
 
@@ -596,7 +596,7 @@ This module applies Random Forest Regression to historical revenue data and comp
 | Number of Estimators | 300 |
 | Maximum Depth | 5 |
 | Random State | 42 |
-| Test Period | Januaryâ€“December 2025 |
+| Test Period | January–December 2025 |
 
 The forecasting experiment focuses on Company Code 1000.
 
@@ -627,7 +627,7 @@ The lag-12 feature was reported as the most important feature in the Random Fore
 
 ---
 
-### ðŸ”Ž 4. Financial Anomaly Detection
+### 🔎 4. Financial Anomaly Detection
 
 **Objective:** Identify potentially unusual accounting transactions using unsupervised machine learning.
 
@@ -650,11 +650,11 @@ This module applies Isolation Forest to identify transactions with unusual finan
 
 The implementation includes two configurations:
 
-**Model 1 â€” Amount-Based Detection**
+**Model 1 — Amount-Based Detection**
 
 Uses transaction amount as the input feature.
 
-**Model 2 â€” Context-Aware Detection**
+**Model 2 — Context-Aware Detection**
 
 Extends the input features using:
 
@@ -696,7 +696,7 @@ The implementation produces:
 
 ---
 
-### ðŸ› ï¸ Technical Skills Demonstrated
+### 🛠️ Technical Skills Demonstrated
 
 The four analytical modules collectively demonstrate the following technical capabilities:
 
@@ -720,7 +720,7 @@ The four analytical modules collectively demonstrate the following technical cap
 
 ---
 
-### ðŸ“ˆ Overall Analytical Outcomes
+### 📈 Overall Analytical Outcomes
 
 The project produces the following documented analytical outputs:
 
@@ -737,7 +737,7 @@ The project produces the following documented analytical outputs:
 
 ---
 
-### ðŸ’¼ Practical Business Applications
+### 💼 Practical Business Applications
 
 The analytical capabilities developed in this project are relevant to several financial and business functions:
 
@@ -755,13 +755,13 @@ The project demonstrates how Python, SQL, Machine Learning and Power BI can work
 
 ---
 
-## ðŸ› ï¸ Technology Stack & Tools
+## 🛠️ Technology Stack & Tools
 
 The project combines programming, data manipulation, database querying, machine learning and business intelligence technologies to develop an integrated financial analytics solution.
 
 The technology stack is organized around the complete analytical workflow, from financial data processing and SQL analysis to predictive modelling and interactive dashboard development.
 
-### ðŸ’» 1. Programming & Data Analysis
+### 💻 1. Programming & Data Analysis
 
 <div>
 
@@ -779,7 +779,7 @@ The technology stack is organized around the complete analytical workflow, from 
 | NumPy | Numerical computation | Financial calculations and numerical operations |
 | Matplotlib | Data visualization | Historical revenue visualization and analytical plotting |
 
-### ðŸ—„ï¸ 2. Database & SQL Analytics
+### 🗄️ 2. Database & SQL Analytics
 
 <div>
 
@@ -805,7 +805,7 @@ The technology stack is organized around the complete analytical workflow, from 
 - Financial views and reusable analytical queries.
 - Accounting document reconciliation.
 
-### ðŸ¤– 3. Machine Learning & Predictive Analytics
+### 🤖– 3. Machine Learning & Predictive Analytics
 
 <div>
 
@@ -833,7 +833,7 @@ The technology stack is organized around the complete analytical workflow, from 
 - Model Evaluation and Benchmark Comparison.
 - Feature Importance Analysis.
 
-### ðŸ“Š 4. Business Intelligence & Visualization
+### 📊 4. Business Intelligence & Visualization
 
 <div>
 
@@ -858,7 +858,7 @@ The technology stack is organized around the complete analytical workflow, from 
 - Financial Anomaly Monitoring.
 - Fiscal Period and Company-Level Analysis.
 
-### ðŸ““ 5. Development Environment & Tools
+### 📓 5. Development Environment & Tools
 
 <div>
 
@@ -878,7 +878,7 @@ The technology stack is organized around the complete analytical workflow, from 
 | Power BI Desktop | Dashboard development and report exploration |
 | MySQL | SQL query execution environment |
 
-### ðŸ“š 6. Complete Technology Summary
+### 📊 6. Complete Technology Summary
 
 | Category | Technology | Skill Demonstrated |
 |---|---|---|
@@ -895,7 +895,7 @@ The technology stack is organized around the complete analytical workflow, from 
 | Development | Jupyter Notebook | Exploratory data analysis |
 | Version Control | Git, GitHub | Source control and documentation |
 
-### ðŸŽ¯ Technology-to-Workflow Mapping
+### 🎯 Technology-to-Workflow Mapping
 
 The following table illustrates how different technologies contribute to the overall financial analytics workflow.
 
@@ -916,7 +916,7 @@ The following table illustrates how different technologies contribute to the ove
 
 ---
 
-## ðŸ—ï¸ System Architecture & Data Flow
+## 🏗️ System Architecture & Data Flow
 
 The Financial Performance & FP&A Predictive Analytics project follows a structured analytical architecture that integrates financial data processing, SQL-based analysis, predictive modelling and interactive business intelligence.
 
@@ -1046,7 +1046,7 @@ The source dataset contains the following major data components:
 | Accounting Transaction Lines | 159,934 |
 | Accounting Documents | 79,967 |
 | Company Codes | 1000, 2000, 3000 |
-| Fiscal Period | 2022â€“2025 |
+| Fiscal Period | 2022–2025 |
 | Currencies | EUR, USD, INR |
 | Accounting Structure | SAP-style ACDOCA |
 
@@ -1115,11 +1115,11 @@ flowchart TD
 
 #### Major Processing Activities
 
-**Stage 1 â€” Data Loading**
+**Stage 1 — Data Loading**
 
 Load accounting transactions, planning records and master data using Pandas.
 
-**Stage 2 â€” Data Cleaning**
+**Stage 2 — Data Cleaning**
 
 - Standardize column names.
 - Convert posting and document dates.
@@ -1127,27 +1127,27 @@ Load accounting transactions, planning records and master data using Pandas.
 - Identify duplicate records.
 - Examine transaction distributions.
 
-**Stage 3 â€” Financial Validation**
+**Stage 3 — Financial Validation**
 
 - Validate accounting document balances.
 - Examine debit and credit distributions.
 - Check document and line-item combinations.
 - Review missing organizational information.
 
-**Stage 4 â€” Financial Classification**
+**Stage 4 — Financial Classification**
 
 Merge accounting transactions with G/L account master data to identify financial categories.
 
-**Stage 5 â€” Accounting Sign Normalization**
+**Stage 5 — Accounting Sign Normalization**
 
 Create signed accounting amounts using debit and credit indicators:
 
 | Debit/Credit Indicator | Analytical Treatment |
 |---|---|
-| S â€” Debit | Positive amount |
-| H â€” Credit | Negative amount |
+| S — Debit | Positive amount |
+| H — Credit | Negative amount |
 
-**Stage 6 â€” P&L Construction**
+**Stage 6 — P&L Construction**
 
 Aggregate accounting transactions into monthly financial categories and construct financial performance indicators.
 
@@ -1273,7 +1273,7 @@ flowchart TD
 | Maximum Depth | 5 |
 | Random State | 42 |
 | Forecasting Company | 1000 |
-| Testing Period | Januaryâ€“December 2025 |
+| Testing Period | January–December 2025 |
 
 #### Model Evaluation
 
@@ -1604,7 +1604,7 @@ These boundaries distinguish the implemented analytical workflow from additional
 
 ---
 
-### âœ… Architecture Summary
+### ✅ Architecture Summary
 
 The project demonstrates an integrated approach to financial data analytics through three complementary technical workstreams.
 
@@ -1620,127 +1620,68 @@ Together, these components demonstrate the practical application of data analyti
 
 ---
 
-## ðŸ“ Project Structure
+## 📁 Project Structure
 
 The repository follows a modular directory structure to organize financial datasets, analytical notebooks, SQL scripts, Power BI reports and project documentation.
 
 Each directory serves a specific purpose within the financial analytics workflow, making the project easier to navigate, understand and reproduce.
 
-### ðŸ—‚ï¸ Complete Repository Structure
+### 🗂️ Complete Repository Structure
 
 ```text
 financial-fpa-predictive-analytics/
-â”‚
-â”‚   # Project datasets, processed outputs and reference data
-â”œâ”€â”€ data/
-â”‚   â”‚
-â”‚   â”‚   # Generated dataset containing actual, budget and forecast values
-â”‚   â”œâ”€â”€ actual_budget_forecast.csv
-â”‚   â”‚
-â”‚   â”‚   # Transactions flagged for potential anomaly investigation
-â”‚   â”œâ”€â”€ anomaly_investigation.csv
-â”‚   â”‚
-â”‚   â”‚   # Consolidated financial and analytical KPI results
-â”‚   â”œâ”€â”€ final_kpi_summary.csv
-â”‚   â”‚
-â”‚   â”‚   # Actual versus Random Forest revenue forecasting results
-â”‚   â”œâ”€â”€ forecast_results.csv
-â”‚   â”‚
-â”‚   â”‚   # Financial master data and organizational reference tables
-â”‚   â”œâ”€â”€ master_data/
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Company code reference information
-â”‚   â”‚   â”œâ”€â”€ dim_company_code.csv
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Cost center reference information
-â”‚   â”‚   â”œâ”€â”€ dim_cost_center.csv
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Cost center group classifications
-â”‚   â”‚   â”œâ”€â”€ dim_cost_center_group.csv
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # General ledger account reference information
-â”‚   â”‚   â”œâ”€â”€ dim_gl_account.csv
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Profit center reference information
-â”‚   â”‚   â””â”€â”€ dim_profit_center.csv
-â”‚   â”‚
-â”‚   â”‚   # Dataset documentation and source information
-â”‚   â””â”€â”€ README.md
-â”‚
-â”‚   # Project documentation, architecture and dashboard previews
-â”œâ”€â”€ docs/
-â”‚   â”‚
-â”‚   â”‚   # Power BI dashboard screenshots for project visualization
-â”‚   â”œâ”€â”€ dashboard-preview/
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Executive financial performance dashboard
-â”‚   â”‚   â”œâ”€â”€ 01-executive-overview.png
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Budget and financial variance dashboard
-â”‚   â”‚   â”œâ”€â”€ 02-budget-variance.png
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Revenue forecasting and machine learning dashboard
-â”‚   â”‚   â”œâ”€â”€ 03-forecast-ml.png
-â”‚   â”‚   â”‚
-â”‚   â”‚   â”‚   # Financial anomaly detection dashboard
-â”‚   â”‚   â””â”€â”€ 04-anomaly-detection.png
-â”‚   â”‚
-â”‚   â”‚   # Detailed financial project documentation
-â”‚   â”œâ”€â”€ Project_Documentation.docx
-â”‚   â”‚
-â”‚   â”‚   # Explanation of repository directories and files
-â”‚   â”œâ”€â”€ PROJECT_STRUCTURE.md
-â”‚   â”‚
-â”‚   â”‚   # Original repository and dataset attribution
-â”‚   â””â”€â”€ ATTRIBUTION.md
-â”‚
-â”‚   # Python analytical notebooks and financial modelling
-â”œâ”€â”€ notebooks/
-â”‚   â”‚
-â”‚   â”‚   # Complete financial analytics and predictive modelling workflow
-â”‚   â””â”€â”€ fpa_predictive_analytics.ipynb
-â”‚
-â”‚   # Power BI reports and financial dashboard calculations
-â”œâ”€â”€ powerbi/
-â”‚   â”‚
-â”‚   â”‚   # Interactive four-page financial analytics report
-â”‚   â”œâ”€â”€ Financial_Performance_FPA_Predictive_Analytics.pbix
-â”‚   â”‚
-â”‚   â”‚   # DAX measures used for financial KPI calculations
-â”‚   â””â”€â”€ dax_measures.dax
-â”‚
-â”‚   # SQL scripts for relational financial data analysis
-â”œâ”€â”€ sql/
-â”‚   â”‚
-â”‚   â”‚   # MySQL database setup and financial analytical queries
-â”‚   â””â”€â”€ mysql_fpa_analysis.sql
-â”‚
-â”‚   # Git configuration and repository documentation
-â”œâ”€â”€ .gitignore
-â”‚
-â”‚   # Main project documentation and technical overview
-â”œâ”€â”€ README.md
-â”‚
-â”‚   # Text-based representation of the repository structure
-â””â”€â”€ folder_structure.txt
+│
+├── data/                                              # Processed datasets and analytical outputs
+│   ├── actual_budget_forecast.csv                     # Actual, budget and rolling forecast results
+│   ├── anomaly_investigation.csv                      # Transactions flagged for anomaly investigation
+│   ├── final_kpi_summary.csv                          # Consolidated financial and analytical KPIs
+│   ├── forecast_results.csv                            # Actual and predicted revenue results
+│   └── master_data/                                   # Financial and organizational reference data
+│       ├── dim_company_code.csv                       # Company code reference information
+│       ├── dim_cost_center.csv                        # Cost center reference information
+│       ├── dim_cost_center_group.csv                  # Cost center group classifications
+│       ├── dim_gl_account.csv                         # General ledger account reference information
+│       └── dim_profit_center.csv                      # Profit center reference information
+│
+├── docs/                                              # Project documentation and dashboard previews
+│   ├── dashboard_preview/                             # Screenshots of the four Power BI report pages
+│   │   ├── 01_executive_overview.png                  # Executive financial performance dashboard
+│   │   ├── 02_budget_variance.png                     # Budget and financial variance dashboard
+│   │   ├── 03_forecast_ml.png                          # Revenue forecasting and machine learning dashboard
+│   │   └── 04_anomaly_detection.png                   # Financial anomaly detection dashboard
+│   └── Project_Documentation.docx                     # Detailed financial project documentation
+│
+├── notebooks/                                         # Python analytics and predictive modelling
+│   └── fpa_predictive_analytics.ipynb                 # End-to-end financial analytics notebook
+│
+├── powerbi/                                           # Power BI report and dashboard calculations
+│   ├── Financial_Performance_FPA_Predictive_Analytics.pbix  # Interactive four-page Power BI report
+│   └── dax_measures.dax                               # DAX measures for financial KPI calculations
+│
+├── sql/                                               # SQL scripts for financial data analysis
+│   └── mysql_fpa_analysis.sql                         # MySQL financial analysis queries
+│
+├── .gitignore                                         # Files and directories excluded from Git
+├── README.md                                          # Main project overview and documentation
+└── folder_stucture.txt                                # Text-based representation of the repository structure
 ```
 
-### ðŸ“‚ Directory Responsibilities
+### 📂 Directory Responsibilities
 
 | Directory / File | Responsibility |
 |---|---|
 | `data/` | Stores processed financial datasets and analytical outputs |
 | `data/master_data/` | Contains company, G/L account, cost center and profit center reference data |
 | `docs/` | Maintains project documentation and technical references |
-| `docs/dashboard-preview/` | Contains screenshots of the four Power BI dashboard pages |
+| `docs/dashboard_preview/` | Contains screenshots of the four Power BI dashboard pages |
 | `notebooks/` | Contains Python-based financial analysis and machine learning implementation |
 | `powerbi/` | Stores the interactive Power BI report and DAX measures |
 | `sql/` | Contains MySQL scripts for financial data analysis |
 | `.gitignore` | Defines files and directories excluded from Git tracking |
 | `README.md` | Provides the main project overview and documentation |
-| `folder_structure.txt` | Provides a readable representation of the project directory structure |
+| `folder_stucture.txt` | Provides a readable representation of the project directory structure |
 
-### ðŸ“„ Important Project Files
+### 📄 Important Project Files
 
 | File | Description |
 |---|---|
@@ -1753,9 +1694,8 @@ financial-fpa-predictive-analytics/
 | `anomaly_investigation.csv` | Contains potentially unusual transactions identified during anomaly detection |
 | `final_kpi_summary.csv` | Stores consolidated financial and analytical metrics |
 | `Project_Documentation.docx` | Provides additional project methodology and documentation |
-| `ATTRIBUTION.md` | Documents original project and dataset sources |
 
-### ðŸ“ Repository Organization Principles
+### 📝 Repository Organization Principles
 
 The project structure follows these organizational principles:
 
@@ -1771,7 +1711,7 @@ The project structure follows these organizational principles:
 
 ---
 
-## ðŸš€ Getting Started & Reproducibility
+## 🚀 Getting Started & Reproducibility
 
 This section provides instructions for setting up the Financial Performance & FP&A Predictive Analytics project in a local development environment.
 
@@ -1779,7 +1719,7 @@ It covers the Python environment, dataset configuration, MySQL database preparat
 
 Following these instructions allows developers to explore the analytical workflow and reproduce the project's financial analysis.
 
-### ðŸ“‹ 1. Prerequisites
+### 📋 1. Prerequisites
 
 Before getting started, ensure that the following tools are installed.
 
@@ -1803,14 +1743,14 @@ Before getting started, ensure that the following tools are installed.
 
 ---
 
-### ðŸ“¥ 2. Clone the Repository
+### 📥 2. Clone the Repository
 
 Clone the repository to your local machine.
 
 Open a terminal and execute:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/financial-fpa-predictive-analytics.git
+git clone https://github.com/vivekgadhe/financial-fpa-predictive-analytics.git
 ```
 
 Navigate to the project directory:
@@ -1819,7 +1759,7 @@ Navigate to the project directory:
 cd financial-fpa-predictive-analytics
 ```
 
-> Replace `YOUR_GITHUB_USERNAME` with the GitHub account that owns your fork.
+> This command clones the project from its GitHub repository.
 
 Verify the repository structure:
 
@@ -1829,7 +1769,7 @@ git status
 
 ---
 
-### ðŸ 3. Python Environment Setup
+### 🐍 3. Python Environment Setup
 
 The Python analysis is implemented in Jupyter Notebook using Pandas, NumPy, Matplotlib and Scikit-learn.
 
@@ -1879,7 +1819,7 @@ A virtual environment keeps project dependencies separate from other Python appl
 
 ---
 
-### ðŸ“¦ 4. Install Python Dependencies
+### 📦 4. Install Python Dependencies
 
 Install the libraries required by the original analytical notebook.
 
@@ -1917,7 +1857,7 @@ python -m ipykernel install --user --name fpa-analytics --display-name "Python (
 
 ---
 
-### ðŸ“Š 5. Dataset Configuration
+### 📊 5. Dataset Configuration
 
 The project uses an SAP-style Financial Planning & Analysis dataset containing accounting transaction records, financial planning information and organizational master data.
 
@@ -1927,7 +1867,7 @@ The original raw transaction files are not included in this repository because o
 
 **Dataset:** SAP FP&A Dataset by Ajay Kumar
 
-**Source:** [Zenodo â€“ SAP FP&A Dataset](https://doi.org/10.5281/zenodo.21888240)
+**Source:** [Zenodo – SAP FP&A Dataset](https://doi.org/10.5281/zenodo.21888240)
 
 **Dataset License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
 
@@ -1951,24 +1891,24 @@ Keep the downloaded raw dataset separate from the processed analytical outputs.
 
 ```text
 financial-fpa-predictive-analytics/
-â”‚
-â”œâ”€â”€ data/
-â”‚   â”‚
-â”‚   â”œâ”€â”€ raw/
-â”‚   â”‚   â””â”€â”€ financial-fpa-analytics-dataset/
-â”‚   â”‚       â”œâ”€â”€ acdoca_actuals.csv
-â”‚   â”‚       â”œâ”€â”€ plan_versions.csv
-â”‚   â”‚       â”œâ”€â”€ dim_gl_account.csv
-â”‚   â”‚       â”œâ”€â”€ dim_company_code.csv
-â”‚   â”‚       â”œâ”€â”€ dim_cost_center.csv
-â”‚   â”‚       â”œâ”€â”€ dim_cost_center_group.csv
-â”‚   â”‚       â””â”€â”€ dim_profit_center.csv
-â”‚   â”‚
-â”‚   â”œâ”€â”€ master_data/
-â”‚   â”œâ”€â”€ actual_budget_forecast.csv
-â”‚   â”œâ”€â”€ anomaly_investigation.csv
-â”‚   â”œâ”€â”€ forecast_results.csv
-â”‚   â””â”€â”€ final_kpi_summary.csv
+│
+├── data/
+│   │
+│   ├── raw/
+│   │   └── financial-fpa-analytics-dataset/
+│   │       ├── acdoca_actuals.csv
+│   │       ├── plan_versions.csv
+│   │       ├── dim_gl_account.csv
+│   │       ├── dim_company_code.csv
+│   │       ├── dim_cost_center.csv
+│   │       ├── dim_cost_center_group.csv
+│   │       └── dim_profit_center.csv
+│   │
+│   ├── master_data/
+│   ├── actual_budget_forecast.csv
+│   ├── anomaly_investigation.csv
+│   ├── forecast_results.csv
+│   └── final_kpi_summary.csv
 ```
 
 The `data/raw/` directory is intended for local dataset files and should not be committed to GitHub unless there is a specific reason and the dataset distribution requirements are satisfied.
@@ -2079,13 +2019,13 @@ final_kpi_summary.to_csv(
 
 ---
 
-### ðŸ—„ï¸ 6. MySQL Database Setup
+### 🗄️ 6. MySQL Database Setup
 
 The project includes a MySQL analytical script for querying accounting transactions and performing financial analysis.
 
 **Database Name:** `fpa_analytics`
 
-#### Step 1 â€” Install MySQL
+#### Step 1 — Install MySQL
 
 Install:
 
@@ -2096,7 +2036,7 @@ Start the MySQL server and open MySQL Workbench.
 
 Connect to your local MySQL instance.
 
-#### Step 2 â€” Create the Database
+#### Step 2 — Create the Database
 
 Execute:
 
@@ -2106,7 +2046,7 @@ CREATE DATABASE IF NOT EXISTS fpa_analytics;
 USE fpa_analytics;
 ```
 
-#### Step 3 â€” Prepare the Source Tables
+#### Step 3 — Prepare the Source Tables
 
 The supplied SQL script expects the following source tables:
 
@@ -2128,7 +2068,7 @@ Ensure that:
 
 The SQL script also references `actual_budget_monthly` in its budget-variance queries. This table is not created by the supplied SQL script and must be prepared separately before executing those queries.
 
-#### Step 4 â€” Execute the SQL Script
+#### Step 4 — Execute the SQL Script
 
 Open:
 
@@ -2155,7 +2095,7 @@ The script includes:
 - Rolling revenue calculations.
 - Transaction investigation queries.
 
-#### Step 5 â€” Verify the Database
+#### Step 5 — Verify the Database
 
 Run:
 
@@ -2196,7 +2136,7 @@ Actual counts depend on successful dataset preparation and import.
 
 ---
 
-### ðŸ““ 7. Run the Jupyter Notebook
+### 📓 7. Run the Jupyter Notebook
 
 Once the Python environment and dataset paths are configured, execute the analytical notebook.
 
@@ -2254,18 +2194,18 @@ After successful execution, the following files are generated inside `data/`:
 
 ```text
 data/
-â”‚
-â”œâ”€â”€ actual_budget_forecast.csv
-â”œâ”€â”€ forecast_results.csv
-â”œâ”€â”€ anomaly_investigation.csv
-â””â”€â”€ final_kpi_summary.csv
+│
+├── actual_budget_forecast.csv
+├── forecast_results.csv
+├── anomaly_investigation.csv
+└── final_kpi_summary.csv
 ```
 
 These files provide the processed analytical outputs used by the project's reporting workflow.
 
 ---
 
-### ðŸ“Š 8. Open the Power BI Dashboard
+### 📊 8. Open the Power BI Dashboard
 
 The project includes a Power BI report containing four analytical pages.
 
@@ -2273,22 +2213,22 @@ The project includes a Power BI report containing four analytical pages.
 
 ```text
 powerbi/
-â””â”€â”€ Financial_Performance_FPA_Predictive_Analytics.pbix
+└── Financial_Performance_FPA_Predictive_Analytics.pbix
 ```
 
-#### Step 1 â€” Install Power BI Desktop
+#### Step 1 — Install Power BI Desktop
 
 Download Power BI Desktop from the official Microsoft website:
 
 [Download Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-#### Step 2 â€” Open the Report
+#### Step 2 — Open the Report
 
 Launch Power BI Desktop.
 
 Navigate to:
 
-**File â†’ Open Report â†’ Browse**
+**File → Open Report → Browse**
 
 Select:
 
@@ -2296,7 +2236,7 @@ Select:
 Financial_Performance_FPA_Predictive_Analytics.pbix
 ```
 
-#### Step 3 â€” Explore Dashboard Pages
+#### Step 3 — Explore Dashboard Pages
 
 The report contains four pages:
 
@@ -2307,7 +2247,7 @@ The report contains four pages:
 | Forecast & ML Analysis | Revenue forecasting and model comparison |
 | Financial Anomaly Detection | Potentially unusual accounting transactions |
 
-#### Step 4 â€” Explore Dashboard Interactions
+#### Step 4 — Explore Dashboard Interactions
 
 Where implemented, use the available:
 
@@ -2318,7 +2258,7 @@ Where implemented, use the available:
 - KPI visualizations.
 - Cross-filtering and report navigation.
 
-#### Step 5 â€” Refresh Data When Required
+#### Step 5 — Refresh Data When Required
 
 The downloaded PBIX report contains its Power BI report and model definitions.
 
@@ -2326,7 +2266,7 @@ Data refresh may require configuring the original data-source connections, local
 
 Before refreshing, open:
 
-**Home â†’ Transform Data â†’ Data Source Settings**
+**Home → Transform Data → Data Source Settings**
 
 Review the configured data sources and update them for your local environment where necessary.
 
@@ -2334,30 +2274,30 @@ Review the configured data sources and update them for your local environment wh
 
 ---
 
-### âœ… 9. Reproducibility Checklist
+### ✅ 9. Reproducibility Checklist
 
 Use the following checklist to verify your local setup.
 
 | Task | Expected Result | Status |
 |---|---|---|
-| Clone Repository | Project files available locally | â¬œ |
-| Install Python | Python 3.12 available | â¬œ |
-| Create Virtual Environment | `.venv/` created successfully | â¬œ |
-| Install Dependencies | Required Python libraries installed | â¬œ |
-| Download Dataset | Original accounting and planning files available | â¬œ |
-| Configure Dataset Path | Notebook reads local dataset files | â¬œ |
-| Configure Output Path | Generated CSV files saved locally | â¬œ |
-| Install MySQL | MySQL server running | â¬œ |
-| Prepare Source Tables | Required SQL tables imported | â¬œ |
-| Execute SQL Scripts | Supported SQL queries execute successfully | â¬œ |
-| Run Jupyter Notebook | Analytical workflow completes | â¬œ |
-| Generate Analytical Outputs | Four expected CSV files available | â¬œ |
-| Open Power BI Report | `.pbix` report opens successfully | â¬œ |
-| Verify Dashboard Pages | All four report pages visible | â¬œ |
+| Clone Repository | Project files available locally | ⬜ |
+| Install Python | Python 3.12 available | ⬜ |
+| Create Virtual Environment | `.venv/` created successfully | ⬜ |
+| Install Dependencies | Required Python libraries installed | ⬜ |
+| Download Dataset | Original accounting and planning files available | ⬜ |
+| Configure Dataset Path | Notebook reads local dataset files | ⬜ |
+| Configure Output Path | Generated CSV files saved locally | ⬜ |
+| Install MySQL | MySQL server running | ⬜ |
+| Prepare Source Tables | Required SQL tables imported | ⬜ |
+| Execute SQL Scripts | Supported SQL queries execute successfully | ⬜ |
+| Run Jupyter Notebook | Analytical workflow completes | ⬜ |
+| Generate Analytical Outputs | Four expected CSV files available | ⬜ |
+| Open Power BI Report | `.pbix` report opens successfully | ⬜ |
+| Verify Dashboard Pages | All four report pages visible | ⬜ |
 
 ---
 
-### âš ï¸ 10. Reproducibility Notes & Known Limitations
+### ⚠️ 10. Reproducibility Notes & Known Limitations
 
 The following considerations are important when reproducing the project.
 
@@ -2399,7 +2339,7 @@ Opening the `.pbix` file and refreshing its data are separate operations. Local 
 
 ---
 
-### ðŸŽ¯ Reproducibility Goal
+### 🎯 Reproducibility Goal
 
 The objective of this setup guide is to make the project's financial analytics workflow understandable and reproducible across development environments.
 
@@ -2409,7 +2349,7 @@ By following the documented steps, developers can explore the relationship betwe
 
 ---
 
-## ðŸ“ˆ Results, Model Evaluation & Business Insights
+## 📈 Results, Model Evaluation & Business Insights
 
 This section presents the key analytical outcomes generated by the Financial Performance & FP&A Predictive Analytics project.
 
@@ -2417,7 +2357,7 @@ The results demonstrate how accounting transaction data can be transformed into 
 
 The analysis covers financial data validation, budget performance, revenue forecasting and potentially unusual accounting transaction identification.
 
-### ðŸ“Š 1. Project Results at a Glance
+### 📊 1. Project Results at a Glance
 
 The following metrics summarize the documented analytical outputs.
 
@@ -2435,7 +2375,7 @@ The following metrics summarize the documented analytical outputs.
 
 ---
 
-### âœ… 2. Financial Data Validation Results
+### ✅ 2. Financial Data Validation Results
 
 **Objective:** Evaluate the structural consistency of accounting transactions through document-level debit and credit reconciliation.
 
@@ -2465,7 +2405,7 @@ It also illustrates the importance of data validation in financial analytics wor
 
 ---
 
-### ðŸ’° 3. Financial Performance & Budget Analysis
+### 💰 3. Financial Performance & Budget Analysis
 
 **Objective:** Examine actual financial performance against planned financial targets.
 
@@ -2503,7 +2443,7 @@ It helps identify which financial categories and organizational units require ad
 
 ---
 
-### ðŸ¤– 4. Revenue Forecasting & Model Evaluation
+### 🤖– 4. Revenue Forecasting & Model Evaluation
 
 **Objective:** Evaluate the effectiveness of Random Forest Regression for predicting historical monthly revenue patterns.
 
@@ -2518,7 +2458,7 @@ The forecasting experiment uses historical revenue information and lag-based fea
 | Maximum Depth | 5 |
 | Random State | 42 |
 | Forecasting Company | Company Code 1000 |
-| Testing Period | Januaryâ€“December 2025 |
+| Testing Period | January–December 2025 |
 | Input Features | Lag 1, Lag 2, Lag 3 and Lag 12 |
 
 #### Forecasting Performance
@@ -2570,7 +2510,7 @@ For financial planning, selecting the forecasting method with better validated p
 
 ---
 
-### ðŸ”Ž 5. Financial Anomaly Detection Results
+### 🔎 5. Financial Anomaly Detection Results
 
 **Objective:** Identify potentially unusual accounting transactions using unsupervised machine learning.
 
@@ -2612,29 +2552,29 @@ For example, unusually large accounting entries or unexpected transaction charac
 
 ---
 
-### ðŸ’¡ 6. Key Business Insights
+### 💡 6. Key Business Insights
 
 The combined analytical results provide several useful observations.
 
-#### Insight 1 â€” Accounting Data Consistency
+#### Insight 1 — Accounting Data Consistency
 
 The reconciliation process reports a 100% document-level reconciliation rate within the implemented tolerance.
 
 **Business implication:** Document-level debit and credit validation provides a useful foundation for downstream financial analysis.
 
-#### Insight 2 â€” Forecasting Benchmark Performance
+#### Insight 2 — Forecasting Benchmark Performance
 
 The rolling forecast achieves a lower MAPE than the Random Forest model.
 
 **Business implication:** Financial forecasting should consider benchmark comparisons and validation results before adopting machine-learning models in planning workflows.
 
-#### Insight 3 â€” Potentially Unusual Financial Transactions
+#### Insight 3 — Potentially Unusual Financial Transactions
 
 The context-aware Isolation Forest identifies 1,578 transactions for potential investigation.
 
 **Business implication:** Unsupervised anomaly detection can help prioritize unusual accounting observations for further financial review.
 
-#### Insight 4 â€” Integrated Financial Reporting
+#### Insight 4 — Integrated Financial Reporting
 
 The project combines historical financial analysis, budget comparisons, forecasting results and anomaly investigation within a four-page Power BI report.
 
@@ -2642,7 +2582,7 @@ The project combines historical financial analysis, budget comparisons, forecast
 
 ---
 
-### âš ï¸ 7. Project Limitations
+### ⚠️ 7. Project Limitations
 
 Although the project demonstrates several important financial analytics techniques, there are limitations that should be considered when interpreting its results.
 
@@ -2666,7 +2606,7 @@ Additional feature engineering, model experimentation and validation are require
 
 #### 4. Limited Forecasting Scope
 
-The forecasting experiment focuses on Company Code 1000 and evaluates the Januaryâ€“December 2025 period.
+The forecasting experiment focuses on Company Code 1000 and evaluates the January–December 2025 period.
 
 Its performance should not automatically be generalized to other companies, currencies or future periods.
 
@@ -2700,7 +2640,7 @@ Additional dataset downloads, local path configuration and MySQL source-table pr
 
 ---
 
-### ðŸš€ 8. Future Improvements
+### 🚀 8. Future Improvements
 
 The following improvements could strengthen the analytical depth and reproducibility of the project.
 
@@ -2720,7 +2660,7 @@ The following improvements could strengthen the analytical depth and reproducibi
 
 ---
 
-### ðŸ“Œ 9. Overall Project Assessment
+### 📌 9. Overall Project Assessment
 
 The project demonstrates the application of multiple analytical techniques to financial planning and performance monitoring.
 
@@ -2735,7 +2675,7 @@ The project demonstrates the application of multiple analytical techniques to fi
 | Model Evaluation | Forecast benchmark comparison |
 | Business Analysis | Financial variance and performance interpretation |
 
-### ðŸ’¼ Practical Applications
+### 💼 Practical Applications
 
 The analytical techniques demonstrated in this project are relevant to:
 
@@ -2754,7 +2694,7 @@ The analytical techniques demonstrated in this project are relevant to:
 
 ---
 
-## ðŸ“š Dataset Attribution & References
+## 📊 Dataset Attribution & References
 
 This project uses a publicly available SAP-structured Financial Planning & Analysis (FP&A) dataset for financial analytics, forecasting and anomaly detection.
 
@@ -2769,7 +2709,7 @@ Proper attribution is provided to acknowledge the original dataset creators, pro
 - Utkarsh Khaire
 - Indian Institute of Information Technology Dharwad
 
-**Dataset Source:** [Zenodo â€“ SAP FP&A Dataset](https://doi.org/10.5281/zenodo.21888240)
+**Dataset Source:** [Zenodo – SAP FP&A Dataset](https://doi.org/10.5281/zenodo.21888240)
 
 **Dataset Repository:** [sapajaykumar/sap-fpa-dataset](https://github.com/sapajaykumar/sap-fpa-dataset)
 
@@ -2796,7 +2736,7 @@ Users should consult the dataset's original publication for version-specific cit
 
 ---
 
-## ðŸ¤ Original Project Attribution
+## 🤖 Original Project Attribution
 
 This project builds upon the original Financial Performance & FP&A Predictive Analytics implementation.
 
@@ -2833,7 +2773,7 @@ The dataset and the original analytical implementation have separate attribution
 
 ---
 
-## ðŸ§‘â€ðŸ’» Project Contributions & Development Transparency
+## 🧑‍💻 Project Contributions & Development Transparency
 
 This repository distinguishes between the original implementation and subsequent documentation, presentation and technical improvements.
 
@@ -2887,7 +2827,7 @@ The following items are improvement opportunities and should only be marked as c
 
 ---
 
-## âš ï¸ Project Limitations
+## ⚠️ Project Limitations
 
 Although the project demonstrates several important financial analytics techniques, its results should be interpreted within the limitations of the available dataset and methodology.
 
@@ -2923,7 +2863,7 @@ For the detailed evaluation, see the **Results, Model Evaluation & Business Insi
 
 ---
 
-## ðŸš€ Future Improvements
+## 🚀 Future Improvements
 
 The project provides a foundation for additional financial analytics and predictive modelling capabilities.
 
@@ -2969,7 +2909,7 @@ The following improvements represent potential future development areas.
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Developer Information
+## 👨‍💻 Developer Information
 
 <div align="center">
 
@@ -2989,7 +2929,7 @@ Interested in data analytics, financial intelligence, predictive modelling and t
 
 ---
 
-## ðŸ“„ Licensing & Usage Information
+## 📄 Licensing & Usage Information
 
 This repository incorporates work and data originating from separately published sources.
 
@@ -3022,7 +2962,7 @@ For more information:
 
 <div align="center">
 
-## â­ Thank You for Exploring This Project!
+## ⭐ Thank You for Exploring This Project!
 
 **Financial Performance & FP&A Predictive Analytics**
 
@@ -3037,7 +2977,7 @@ Transforming Financial Data into Actionable Business Intelligence.
 
 <br>
 
-**Financial Analytics Â· Predictive Modelling Â· Business Intelligence**
+**Financial Analytics · Predictive Modelling · Business Intelligence**
 
 <sub>Developed as a financial analytics learning and portfolio project.</sub>
 
